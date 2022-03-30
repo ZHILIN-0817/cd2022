@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+AUTHOR="40923156"
+SITENAME="協同產品設計實習'
+
 # This file is only used if you use `make publish` or
 # explicitly specify it as your config file.
 
