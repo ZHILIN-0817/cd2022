@@ -1,30 +1,4 @@
 <h1>About</h1>
-<h2>week 7</h2>
-<p><span style="color: #ff99cc; background-color: #000000;">使用 onshape 劃出零件並自訂尺寸以及完成組合圖</span></p>
-<p><span style="color: #ff99cc; background-color: #000000;">再使用coppeliasim將完成的組合件進行作動。</span></p>
-<p><span style="color: #ff99cc; background-color: #003300;">第一部分</span></p>
-<p><span color="#ff99cc" style="color: #ff99cc; background-color: #003300;">Mde.tw網站中找到w7任務</span></p>
-<ol>
-<li><span style="color: #333333;">git clone <a href="https://github.com/mdecourse/scarysim.git" style="color: #333333;">https://github.com/mdecourse/scarysim.git</a></span></li>
-<li><span style="color: #333333;">修改 scarysim.pro, 蓋掉第 11 行, 成為 # LIBS     += -lglut -lGLU</span></li>
-<li><span style="color: #333333;">cd scarysim</span></li>
-<li><span style="color: #333333;">qmake -o Makefile scarysim.pro</span></li>
-<li><span style="color: #333333;">mingw32-make -f Makefile.Release 可以在 release 目錄取得 scarysim.exe</span></li>
-<li><span style="color: #333333;">因為 scarysim.exe 執行需要 base.obj, arm1.obj, arm2.obj, arm3.obj 等零件外型檔案, 以及對應的 .mtl 材質檔案, 因此可將 scarysim.exe 移至倉儲根目錄, 並且需要 msys64_20210419\mingw64\bin 路徑中的 dll 動態連結程式庫配合執行.</span></li>
-<li><span style="color: #333333;">由於此套程式碼在 Target 模式下, 零組件間會造成干涉, 表示其 Inverse Kinematic 運算並不正確, 請設法修正此錯誤後, 修改其零件尺寸與操作控制方法, 設法模擬 MTB 的 <a href="https://www.youtube.com/results?search_query=mtb+robot" style="color: #333333;">Pick and Place demo</a> 範例.</span></li>
-<li><span style="color: #333333;">請各組指定組員分別利用 Solvespace、NX12、NX1980、NX2008 與 Onshape 繪製 <a href="https://www.youtube.com/results?search_query=mtb+robot" style="color: #333333;">Pick and Place demo</a> 範例所需的零組件, 並完成 Coppeliasim 4.1.0、4.2.0 與 4.3.0 版的 MTB 機械手臂 Pick and Place 模擬, 完成後請說明在使用不同 MCAD 系統與版次的情況下, 該如何執行協同產品設計專案.</span></li>
-</ol>
-<p></p>
-<p><span style="background-color: #000000; color: #ff99cc;">1)使用onshape完成繪製零件</span></p>
-<p><img alt="" height="281" src="/images/46-1.png" width="500"/></p>
-<p><img alt="" height="281" src="/images/46-3.png" width="500"/></p>
-<p><img alt="" height="281" src="/images/46-4.png" width="500"/></p>
-<p><img caption="false" height="281" src="/images/46-5.png" width="500"/></p>
-<p><span style="color: #ff99cc; background-color: #000000;">2)零件完成後進行組合。</span></p>
-<p><img alt="" height="281" src="/images/46-2.png" width="500"/></p>
-<p></p>
-<p><span style="color: #ff99cc; background-color: #000000;">3)組合完成後開啟coppeliasim進行模擬作動</span></p>
-<p><img caption="false" height="281" src="/images/46-6.png" width="500"/></p>
 <h1>Note</h1>
 <h2>9443</h2>
 <p><span style="background-color: #ffff99; color: #ff00ff;">cd tmp</span></p>
@@ -192,6 +166,36 @@ frameStops: {
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressLeftClass">
+<h2>week 7</h2>
+<p><span style="color: #ff99cc; background-color: #000000;">使用 onshape 劃出零件並自訂尺寸以及完成組合圖</span></p>
+<p><span style="color: #ff99cc; background-color: #000000;">再使用coppeliasim將完成的組合件進行作動。</span></p>
+<p><span style="color: #ff99cc; background-color: #003300;">第一部分</span></p>
+<p><span color="#ff99cc" style="color: #ff99cc; background-color: #003300;">Mde.tw網站中找到w7任務</span></p>
+<ol>
+<li><span style="color: #333333;">git clone <a href="https://github.com/mdecourse/scarysim.git" style="color: #333333;">https://github.com/mdecourse/scarysim.git</a></span></li>
+<li><span style="color: #333333;">修改 scarysim.pro, 蓋掉第 11 行, 成為 # LIBS     += -lglut -lGLU</span></li>
+<li><span style="color: #333333;">cd scarysim</span></li>
+<li><span style="color: #333333;">qmake -o Makefile scarysim.pro</span></li>
+<li><span style="color: #333333;">mingw32-make -f Makefile.Release 可以在 release 目錄取得 scarysim.exe</span></li>
+<li><span style="color: #333333;">因為 scarysim.exe 執行需要 base.obj, arm1.obj, arm2.obj, arm3.obj 等零件外型檔案, 以及對應的 .mtl 材質檔案, 因此可將 scarysim.exe 移至倉儲根目錄, 並且需要 msys64_20210419\mingw64\bin 路徑中的 dll 動態連結程式庫配合執行.</span></li>
+<li><span style="color: #333333;">由於此套程式碼在 Target 模式下, 零組件間會造成干涉, 表示其 Inverse Kinematic 運算並不正確, 請設法修正此錯誤後, 修改其零件尺寸與操作控制方法, 設法模擬 MTB 的 <a href="https://www.youtube.com/results?search_query=mtb+robot" style="color: #333333;">Pick and Place demo</a> 範例.</span></li>
+<li><span style="color: #333333;">請各組指定組員分別利用 Solvespace、NX12、NX1980、NX2008 與 Onshape 繪製 <a href="https://www.youtube.com/results?search_query=mtb+robot" style="color: #333333;">Pick and Place demo</a> 範例所需的零組件, 並完成 Coppeliasim 4.1.0、4.2.0 與 4.3.0 版的 MTB 機械手臂 Pick and Place 模擬, 完成後請說明在使用不同 MCAD 系統與版次的情況下, 該如何執行協同產品設計專案.</span></li>
+</ol>
+<p></p>
+<p><span style="background-color: #000000; color: #ff99cc;">1)使用onshape完成繪製零件</span></p>
+<p><img alt="" height="281" src="/images/46-1.png" width="500"/></p>
+<p><img alt="" height="281" src="/images/46-3.png" width="500"/></p>
+<p><img alt="" height="281" src="/images/46-4.png" width="500"/></p>
+<p><img caption="false" height="281" src="/images/46-5.png" width="500"/></p>
+<p><span style="color: #ff99cc; background-color: #000000;">2)零件完成後進行組合。</span></p>
+<p><img alt="" height="281" src="/images/46-2.png" width="500"/></p>
+<p></p>
+<p><span style="color: #ff99cc; background-color: #000000;">3)組合完成後開啟coppeliasim進行模擬作動</span></p>
+<p><img caption="false" height="281" src="/images/46-6.png" width="500"/></p>
+</div>
 <div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
 <div class="winkVideoControlBarProgressRightClass"></div>
 <div class="winkVideoControlBarProgressFilledMiddleClass"></div>
