@@ -80,37 +80,7 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20170710015511.1"></t>
 <t tx="leo.20170710015523.1"></t>
 <t tx="leo.20170710015523.2"></t>
-<t tx="leo.20170710022041.1">@language md
----
-Title: 建立倉儲及Tokens的方式
-Date: 2022-04-01 11:00
-Category: Misc
-Tags: 2022SpringCD
-Slug: w6_firday
-Author: 40923156
----
-
-
-建立倉儲方式
-
-Tokens
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-建立倉儲
-----
-先進去老師倉儲的cmsimde site 
-
-接著複製老師倉儲的網址
-
-到Create a new repository點開import a repository
-
-貼上剛剛複製的網址
-
-將名稱設為cd2022
-
-接著到小黑窗
-</t>
+<t tx="leo.20170710022041.1"></t>
 <t tx="leo.20170710022054.1"></t>
 <t tx="leo.20170908162839.1"></t>
 <t tx="leo.20170908162904.1"></t>
