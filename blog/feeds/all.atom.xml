@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="https://zhilin-0817.github.io/cd2022/blog/" rel="alternate"></link><link href="https://zhilin-0817.github.io/cd2022/blog/feeds/all.atom.xml" rel="self"></link><id>https://zhilin-0817.github.io/cd2022/blog/</id><updated>2022-05-04T10:08:06+08:00</updated><entry><title>WEEK8 spring CD 課程</title><link href="https://zhilin-0817.github.io/cd2022/blog/w8-40923156.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-04-27T09:10:14+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w8-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="https://zhilin-0817.github.io/cd2022/blog/" rel="alternate"></link><link href="https://zhilin-0817.github.io/cd2022/blog/feeds/all.atom.xml" rel="self"></link><id>https://zhilin-0817.github.io/cd2022/blog/</id><updated>2022-05-04T10:33:08+08:00</updated><entry><title>WEEK8 spring CD 課程</title><link href="https://zhilin-0817.github.io/cd2022/blog/w8-40923156.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-04-27T09:10:14+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w8-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖後, 將 uarm 組合件轉為 STL 格式後轉入 CoppeliaSim&lt;/p&gt;
 &lt;h2&gt;WEEK8&lt;/h2&gt;
@@ -56,7 +56,7 @@ pelican設定順序
   3)近端&lt;/p&gt;
 &lt;p&gt;第三步驟
   path markdown 
-找到 path page 將自己網站以及倉儲 的網址複製到 leo 並存取&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>2022 spring CD 課程</title><link href="https://zhilin-0817.github.io/cd2022/blog/w6_40923156.html" rel="alternate"></link><published>2022-03-30T11:00:00+08:00</published><updated>2022-04-27T01:17:20+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-03-30:/cd2022/blog/w6_40923156.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+找到 path page 將自己網站以及倉儲 的網址複製到 leo 並存取&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>2022 spring CD 課程</title><link href="https://zhilin-0817.github.io/cd2022/blog/w6_40923156.html" rel="alternate"></link><published>2022-03-30T11:00:00+08:00</published><updated>2022-05-04T10:33:08+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-03-30:/cd2022/blog/w6_40923156.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 
 
