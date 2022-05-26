@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="https://zhilin-0817.github.io/cd2022/blog/" rel="alternate"></link><link href="https://zhilin-0817.github.io/cd2022/blog/feeds/misc.atom.xml" rel="self"></link><id>https://zhilin-0817.github.io/cd2022/blog/</id><updated>2022-05-04T10:41:54+08:00</updated><entry><title>WEEK8 spring CD 課程</title><link href="https://zhilin-0817.github.io/cd2022/blog/w8-40923156.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-05-04T10:41:54+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w8-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="https://zhilin-0817.github.io/cd2022/blog/" rel="alternate"></link><link href="https://zhilin-0817.github.io/cd2022/blog/feeds/misc.atom.xml" rel="self"></link><id>https://zhilin-0817.github.io/cd2022/blog/</id><updated>2022-05-26T22:00:20+08:00</updated><entry><title>WEEK8</title><link href="https://zhilin-0817.github.io/cd2022/blog/w8-40923156.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-05-26T22:00:20+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w8-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖後, 將 uarm 組合件轉為 STL 格式後轉入 CoppeliaSim&lt;/p&gt;
 &lt;h2&gt;WEEK8&lt;/h2&gt;
-&lt;p&gt;我們由組長分配零件給組員在限定的時間內完成零組件繪製並組裝完.&lt;/p&gt;
-&lt;p&gt;協同很需要團隊分配有系統並且充分的溝通是很重要的&lt;/p&gt;
-&lt;p&gt;一剛開始看到組合圖的樣子很想放棄不畫了&lt;/p&gt;
-&lt;p&gt;可是我們大組長把每個人的工作分配的很詳細&lt;/p&gt;
-&lt;p&gt;讓大家有方向的完成]自己的工作這點我覺得很好。&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>建立倉儲及Tokens的方式</title><link href="https://zhilin-0817.github.io/cd2022/blog/w6_firday.html" rel="alternate"></link><published>2022-04-01T11:00:00+08:00</published><updated>2022-05-04T10:08:06+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-01:/cd2022/blog/w6_firday.html</id><summary type="html">&lt;p&gt;建立倉儲方式&lt;/p&gt;
+&lt;p&gt;我分配到的零件是減速箱下蓋以及軸承支撐圖&lt;/p&gt;
+&lt;p&gt;因為是用onshape繪製這次的uarm所以有些零件可以直接匯入&lt;/p&gt;
+&lt;p&gt;但碰到組合件還是需要拆開重畫沒有辦法使用匯入的&lt;/p&gt;
+&lt;p&gt;心得
+這次的課程是協同需要小組跟大組合作，雖然跟上學期的課程有點類似，但還是學到很多不一樣的東西。
+例如團隊分工以及工作的團隊在這個一起工作的溝通還有團隊的制度，我覺得這些很重要，因為這會影響我工作心情。在組長的領導下，跟其他組員的溝通沒有障礙然後大家都有照進度表的時間走，讓我們的分工順利完成我覺得很好。組合的部分在組裝過程遇到問題，遇到干涉問題 因為是協同不同人畫的零件放在一起組裝會有許多繁雜的問題，所以目前還在排解問題。之後模擬完成會在匯入一次。&lt;/p&gt;
+&lt;p&gt;零件圖網址:
+https://zhilin-0817.github.io/cd2022/content/week8.html&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>建立倉儲及Tokens的方式</title><link href="https://zhilin-0817.github.io/cd2022/blog/w6_firday.html" rel="alternate"></link><published>2022-04-01T11:00:00+08:00</published><updated>2022-05-04T10:08:06+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-01:/cd2022/blog/w6_firday.html</id><summary type="html">&lt;p&gt;建立倉儲方式&lt;/p&gt;
 &lt;p&gt;Tokens&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;建立倉儲方式&lt;/p&gt;
 &lt;p&gt;Tokens&lt;/p&gt;
