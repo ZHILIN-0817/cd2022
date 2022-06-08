@@ -528,22 +528,34 @@ frameStops: {
 <h2>WEEK14</h2>
 <h2>WEEK15</h2>
 <h2>WEEK16</h2>
-<div class="winkVideoControlBarProgressRightClass">
 <p>CoppeliaSim Python remote API 範例:</p>
-<p>利用 tkinter GUI 介面 slider 控制 uArm 機械手臂:</p>
-<p><a href="https://mde.tw/cd2022_guide/downloads/w15_uarm_tkinter_control.7z">w15_uarm_tkinter_control.7z</a></p>
+<p>利用 tkinter GUI 介面 slider 控制 uArm 機械手臂</p>
 <ol>
 <li>解開壓縮檔案.</li>
 <li>以 CoppeliaSim 4.3.0 rev3 開啟 uarm_nx_tkinter_gui_control_exhaustive.simscene.xml 或 uarm_nx_tkinter_gui_control.ttt 場景後, Start Simulation.</li>
 <li>以 SciTE 執行 uarm_tkinter_control.py, 可透過網路操控伺服器上的 uArm 機械手臂.</li>
 </ol>
 <p>其中的 uarm_nx_tkinter_gui_control_exhaustive.simscene.xml 可以利用 Leo Editor 解讀, 並透過場景節點進行編輯, 以程式方法配置各節點的參數設定.</p>
+<p><span></span></p>
+<p><span></span></p>
+<p><span>利用 OpenCV 擷取場景中的 Vision Sensor 串流影像:</span></p>
+<ol>
+<li>解開壓縮檔案, 配合 rotating_cuboid.py 中的第 17 行, 修改 coppeliaSim.exe 所在目錄, 程式設定位於 C:/CoppeliaSimEdu_4.3.0_rev3 目錄中.</li>
+<li>確定 coppeliaSim.exe 位置設定正確後, 以 SciTE 執行 rotating_cuboid.py, 將會以 headless 模式 (無 GUI 介面) 啟動 rotating_cuboid.ttt, 並將其中的兩個 Vision Sensor 串流影像取出播放.</li>
+<li>操作者按下 p 鍵, 將會暫時 pause 場景模擬.</li>
+<li>操作者按下 s 鍵, 將會重新啟動場景模擬.</li>
+<li>操作者按下 e 鍵, 將會關閉 CoppeliaSim 與 Python 並退出模擬系統.</li>
+<li>rotating_cuboid.ttt 中控制 Cuboid 旋轉的程式採 Python scripting 格式編寫.</li>
+</ol>
 <p></p>
-</div>
-<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
-<div class="winkVideoControlBarProgressThumbClass">
-<h3>Visualization Stream</h3>
+<p><span>在 w15_rotating_cuboid 加入網際 Vision Sensor 串流, 使用者啟動後, 各用戶可以透過瀏覽器擷取場景中的串流影像:</span></p>
+<ol>
+<li>解開壓縮檔案, 放入 rotating_cuboid 目錄中.</li>
+<li>以 SciTE 開啟 rotating_cuboid_flask.py 執行後, 以 http://localhost:5000 擷取 Headless 場景中的影像畫面.</li>
+<li>利用畫面中的連結選擇 camera1 或 camera2 畫面影像, 也可以利用 Pause 連結暫停模擬, 或以 Restart 連結重啟場景模擬.</li>
+<li>由於未使用 AJAX 傳遞資料, 執行 camera 畫面切換或連結點擊, 瀏覽器畫面將會 refresh.</li>
+</ol><h3>Visualization Stream</h3>
 <p><img alt="" height="281" src="/images/haerYGrQI3.png" width="500"/></p>
 <p><img alt="" height="281" src="/images/Nd1vVAY0Su.png" width="500"/></p>
 <p>模擬作動</p>
-<div class="winkVideoPlayOverlayClass"></div></div></div></div></div></div></div>
+<div class="winkVideoPlayOverlayClass"></div></div></div></div></div></div>
