@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="https://zhilin-0817.github.io/cd2022/blog/" rel="alternate"></link><link href="https://zhilin-0817.github.io/cd2022/blog/feeds/misc.atom.xml" rel="self"></link><id>https://zhilin-0817.github.io/cd2022/blog/</id><updated>2022-06-01T22:47:16+08:00</updated><entry><title>WEEk7</title><link href="https://zhilin-0817.github.io/cd2022/blog/w7_summary.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-06-01T22:47:16+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w7_summary.html</id><summary type="html">&lt;h2&gt;WEEK7&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="https://zhilin-0817.github.io/cd2022/blog/" rel="alternate"></link><link href="https://zhilin-0817.github.io/cd2022/blog/feeds/misc.atom.xml" rel="self"></link><id>https://zhilin-0817.github.io/cd2022/blog/</id><updated>2022-06-14T00:18:50+08:00</updated><entry><title>WEEK10</title><link href="https://zhilin-0817.github.io/cd2022/blog/w10-40923156.html" rel="alternate"></link><published>2022-05-01T11:00:00+08:00</published><updated>2022-06-14T00:18:50+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-05-01:/cd2022/blog/w10-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;W10 block_ui&lt;/p&gt;
+&lt;p&gt;W10 ssh&lt;/p&gt;
+&lt;h2&gt;WEEK10&lt;/h2&gt;
+&lt;p&gt;https://zhilin-0817.github.io/cd2022/content/week10.html&lt;/p&gt;
+&lt;p&gt;W10 block_ui
+https://zhilin-0817.github.io/cd2022/content/block%20ui.html&lt;/p&gt;
+&lt;p&gt;W10 nx_integ
+https://zhilin-0817.github.io/cd2022/content/nx%20integ.html&lt;/p&gt;
+&lt;p&gt;W10 ssh
+https://zhilin-0817.github.io/cd2022/content/ssh.html&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>WEEk7</title><link href="https://zhilin-0817.github.io/cd2022/blog/w7_summary.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-06-01T22:47:16+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w7_summary.html</id><summary type="html">&lt;h2&gt;WEEK7&lt;/h2&gt;
 &lt;p&gt;使用老師規定的幾個繪圖軟體劃出零件並自訂尺寸以及完成組合圖&lt;/p&gt;
 &lt;p&gt;再使用coppeliasim將完成的組合件進行作動。&lt;/p&gt;
 &lt;p&gt;第一部分&lt;/p&gt;
