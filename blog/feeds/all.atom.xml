@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="https://zhilin-0817.github.io/cd2022/blog/" rel="alternate"></link><link href="https://zhilin-0817.github.io/cd2022/blog/feeds/all.atom.xml" rel="self"></link><id>https://zhilin-0817.github.io/cd2022/blog/</id><updated>2022-06-14T00:27:06+08:00</updated><entry><title>WEEK12</title><link href="https://zhilin-0817.github.io/cd2022/blog/w12-40923156.html" rel="alternate"></link><published>2022-05-11T11:00:00+08:00</published><updated>2022-06-14T00:27:06+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-05-11:/cd2022/blog/w12-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="https://zhilin-0817.github.io/cd2022/blog/" rel="alternate"></link><link href="https://zhilin-0817.github.io/cd2022/blog/feeds/all.atom.xml" rel="self"></link><id>https://zhilin-0817.github.io/cd2022/blog/</id><updated>2022-06-14T00:34:14+08:00</updated><entry><title>WEEK13</title><link href="https://zhilin-0817.github.io/cd2022/blog/w13-40923156.html" rel="alternate"></link><published>2022-05-18T11:00:00+08:00</published><updated>2022-06-14T00:31:48+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-05-18:/cd2022/blog/w13-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;WEEK13&lt;/h2&gt;
+&lt;p&gt;WEEK13
+下載CoppeliaSimEdu&lt;/p&gt;
+&lt;p&gt;利用Coppeliasim模擬機械運轉&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>WEEK12</title><link href="https://zhilin-0817.github.io/cd2022/blog/w12-40923156.html" rel="alternate"></link><published>2022-05-11T11:00:00+08:00</published><updated>2022-06-14T00:27:06+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-05-11:/cd2022/blog/w12-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;W12任務&lt;/p&gt;
 &lt;hr&gt;
@@ -26,7 +31,18 @@ https://zhilin-0817.github.io/cd2022/content/block%20ui.html&lt;/p&gt;
 &lt;p&gt;W10 nx_integ
 https://zhilin-0817.github.io/cd2022/content/nx%20integ.html&lt;/p&gt;
 &lt;p&gt;W10 ssh
-https://zhilin-0817.github.io/cd2022/content/ssh.html&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>WEEk7</title><link href="https://zhilin-0817.github.io/cd2022/blog/w7_summary.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-06-01T22:47:16+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w7_summary.html</id><summary type="html">&lt;h2&gt;WEEK7&lt;/h2&gt;
+https://zhilin-0817.github.io/cd2022/content/ssh.html&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>WEEK7</title><link href="https://zhilin-0817.github.io/cd2022/blog/w7-40923156.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-06-14T00:34:14+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w7-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖後, 將 uarm 組合件轉為 STL 格式後轉入 CoppeliaSim&lt;/p&gt;
+&lt;h2&gt;WEEK8&lt;/h2&gt;
+&lt;p&gt;我分配到的零件是減速箱下蓋以及軸承支撐圖&lt;/p&gt;
+&lt;p&gt;因為是用onshape繪製這次的uarm所以有些零件可以直接匯入&lt;/p&gt;
+&lt;p&gt;但碰到組合件還是需要拆開重畫沒有辦法使用匯入的&lt;/p&gt;
+&lt;p&gt;心得
+這次的課程是協同需要小組跟大組合作，雖然跟上學期的課程有點類似，但還是學到很多不一樣的東西。
+例如團隊分工以及工作的團隊在這個一起工作的溝通還有團隊的制度，我覺得這些很重要，因為這會影響我工作心情。在組長的領導下，跟其他組員的溝通沒有障礙然後大家都有照進度表的時間走，讓我們的分工順利完成我覺得很好。組合的部分在組裝過程遇到問題，遇到干涉問題 因為是協同不同人畫的零件放在一起組裝會有許多繁雜的問題，所以目前還在排解問題。之後模擬完成會在匯入一次。&lt;/p&gt;
+&lt;p&gt;零件圖網址:
+https://zhilin-0817.github.io/cd2022/content/week8.html&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>WEEk7</title><link href="https://zhilin-0817.github.io/cd2022/blog/w7_summary.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-06-01T22:47:16+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w7_summary.html</id><summary type="html">&lt;h2&gt;WEEK7&lt;/h2&gt;
 &lt;p&gt;使用老師規定的幾個繪圖軟體劃出零件並自訂尺寸以及完成組合圖&lt;/p&gt;
 &lt;p&gt;再使用coppeliasim將完成的組合件進行作動。&lt;/p&gt;
 &lt;p&gt;第一部分&lt;/p&gt;
@@ -52,18 +68,7 @@ mingw32-make -f Makefile.Release 可以在 release 目錄取得 scarysim.exe
 &lt;p&gt;今天的繪圖軟體用onshape&lt;/p&gt;
 &lt;p&gt;1)使用onshape完成繪製零件&lt;/p&gt;
 &lt;p&gt;2)零件完成後進行組合。&lt;/p&gt;
-&lt;p&gt;3)組合完成後開啟coppeliasim進行模擬作動&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>WEEK8</title><link href="https://zhilin-0817.github.io/cd2022/blog/w8-40923156.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-05-27T15:14:56+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w8-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;p&gt;分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖後, 將 uarm 組合件轉為 STL 格式後轉入 CoppeliaSim&lt;/p&gt;
-&lt;h2&gt;WEEK8&lt;/h2&gt;
-&lt;p&gt;我分配到的零件是減速箱下蓋以及軸承支撐圖&lt;/p&gt;
-&lt;p&gt;因為是用onshape繪製這次的uarm所以有些零件可以直接匯入&lt;/p&gt;
-&lt;p&gt;但碰到組合件還是需要拆開重畫沒有辦法使用匯入的&lt;/p&gt;
-&lt;p&gt;心得
-這次的課程是協同需要小組跟大組合作，雖然跟上學期的課程有點類似，但還是學到很多不一樣的東西。
-例如團隊分工以及工作的團隊在這個一起工作的溝通還有團隊的制度，我覺得這些很重要，因為這會影響我工作心情。在組長的領導下，跟其他組員的溝通沒有障礙然後大家都有照進度表的時間走，讓我們的分工順利完成我覺得很好。組合的部分在組裝過程遇到問題，遇到干涉問題 因為是協同不同人畫的零件放在一起組裝會有許多繁雜的問題，所以目前還在排解問題。之後模擬完成會在匯入一次。&lt;/p&gt;
-&lt;p&gt;零件圖網址:
-https://zhilin-0817.github.io/cd2022/content/week8.html&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>WEEK8 spring CD 課程</title><link href="https://zhilin-0817.github.io/cd2022/blog/w8-40923156.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-06-14T00:25:58+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w8-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;3)組合完成後開啟coppeliasim進行模擬作動&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>WEEK8 spring CD 課程</title><link href="https://zhilin-0817.github.io/cd2022/blog/w8-40923156.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-06-14T00:25:58+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w8-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖後, 將 uarm 組合件轉為 STL 格式後轉入 CoppeliaSim&lt;/p&gt;
 &lt;h2&gt;WEEK8&lt;/h2&gt;
@@ -71,26 +76,7 @@ https://zhilin-0817.github.io/cd2022/content/week8.html&lt;/p&gt;</content><cate
 &lt;p&gt;協同很需要團隊分配有系統並且充分的溝通是很重要的&lt;/p&gt;
 &lt;p&gt;一剛開始看到組合圖的樣子很想放棄不畫了&lt;/p&gt;
 &lt;p&gt;可是我們大組長把每個人的工作分配的很詳細&lt;/p&gt;
-&lt;p&gt;讓大家有方向的完成]自己的工作這點我覺得很好。&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>WEEK8 spring CD 課程</title><link href="https://zhilin-0817.github.io/cd2022/blog/w8-40923156.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-06-14T00:25:58+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w8-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;p&gt;分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖後, 將 uarm 組合件轉為 STL 格式後轉入 CoppeliaSim&lt;/p&gt;
-&lt;h2&gt;WEEK8&lt;/h2&gt;
-&lt;p&gt;我們由組長分配零件給組員在限定的時間內完成零組件繪製並組裝完.&lt;/p&gt;
-&lt;p&gt;協同很需要團隊分配有系統並且充分的溝通是很重要的&lt;/p&gt;
-&lt;p&gt;一剛開始看到組合圖的樣子很想放棄不畫了&lt;/p&gt;
-&lt;p&gt;可是我們大組長把每個人的工作分配的很詳細&lt;/p&gt;
-&lt;p&gt;讓大家有方向的完成]自己的工作這點我覺得很好。&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>WEEK8</title><link href="https://zhilin-0817.github.io/cd2022/blog/w8-40923156.html" rel="alternate"></link><published>2022-04-15T11:00:00+08:00</published><updated>2022-05-27T15:14:56+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-15:/cd2022/blog/w8-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;p&gt;分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖後, 將 uarm 組合件轉為 STL 格式後轉入 CoppeliaSim&lt;/p&gt;
-&lt;h2&gt;WEEK8&lt;/h2&gt;
-&lt;p&gt;我分配到的零件是減速箱下蓋以及軸承支撐圖&lt;/p&gt;
-&lt;p&gt;因為是用onshape繪製這次的uarm所以有些零件可以直接匯入&lt;/p&gt;
-&lt;p&gt;但碰到組合件還是需要拆開重畫沒有辦法使用匯入的&lt;/p&gt;
-&lt;p&gt;心得
-這次的課程是協同需要小組跟大組合作，雖然跟上學期的課程有點類似，但還是學到很多不一樣的東西。
-例如團隊分工以及工作的團隊在這個一起工作的溝通還有團隊的制度，我覺得這些很重要，因為這會影響我工作心情。在組長的領導下，跟其他組員的溝通沒有障礙然後大家都有照進度表的時間走，讓我們的分工順利完成我覺得很好。組合的部分在組裝過程遇到問題，遇到干涉問題 因為是協同不同人畫的零件放在一起組裝會有許多繁雜的問題，所以目前還在排解問題。之後模擬完成會在匯入一次。&lt;/p&gt;
-&lt;p&gt;零件圖網址:
-https://zhilin-0817.github.io/cd2022/content/week8.html&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>建立倉儲及Tokens的方式</title><link href="https://zhilin-0817.github.io/cd2022/blog/w6_firday.html" rel="alternate"></link><published>2022-04-01T11:00:00+08:00</published><updated>2022-05-27T15:14:56+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-01:/cd2022/blog/w6_firday.html</id><summary type="html">&lt;p&gt;建立倉儲方式&lt;/p&gt;
+&lt;p&gt;讓大家有方向的完成]自己的工作這點我覺得很好。&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>建立倉儲及Tokens的方式</title><link href="https://zhilin-0817.github.io/cd2022/blog/w6_firday.html" rel="alternate"></link><published>2022-04-01T11:00:00+08:00</published><updated>2022-05-27T15:14:56+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-04-01:/cd2022/blog/w6_firday.html</id><summary type="html">&lt;p&gt;建立倉儲方式&lt;/p&gt;
 &lt;p&gt;Tokens&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;建立倉儲方式&lt;/p&gt;
 &lt;p&gt;Tokens&lt;/p&gt;
