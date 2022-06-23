@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="https://zhilin-0817.github.io/cd2022/blog/" rel="alternate"></link><link href="https://zhilin-0817.github.io/cd2022/blog/feeds/misc.atom.xml" rel="self"></link><id>https://zhilin-0817.github.io/cd2022/blog/</id><updated>2022-06-23T12:33:04+08:00</updated><entry><title>WEEK16</title><link href="https://zhilin-0817.github.io/cd2022/blog/w16-40923156.html" rel="alternate"></link><published>2022-06-08T11:00:00+08:00</published><updated>2022-06-23T12:33:04+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-06-08:/cd2022/blog/w16-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="https://zhilin-0817.github.io/cd2022/blog/" rel="alternate"></link><link href="https://zhilin-0817.github.io/cd2022/blog/feeds/misc.atom.xml" rel="self"></link><id>https://zhilin-0817.github.io/cd2022/blog/</id><updated>2022-06-23T12:41:08+08:00</updated><entry><title>WEEK16</title><link href="https://zhilin-0817.github.io/cd2022/blog/w16-40923156.html" rel="alternate"></link><published>2022-06-08T11:00:00+08:00</published><updated>2022-06-23T12:33:04+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-06-08:/cd2022/blog/w16-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;WEEK16
 CoppeliaSim Python remote API 範例:&lt;/p&gt;
@@ -34,7 +34,10 @@ frameStops: {
       &lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
-  &lt;/div&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>WEEK13</title><link href="https://zhilin-0817.github.io/cd2022/blog/w13-40923156.html" rel="alternate"></link><published>2022-05-18T11:00:00+08:00</published><updated>2022-06-14T00:31:48+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-05-18:/cd2022/blog/w13-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+  &lt;/div&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>WEEK14</title><link href="https://zhilin-0817.github.io/cd2022/blog/w14-40923156.html" rel="alternate"></link><published>2022-05-25T11:00:00+08:00</published><updated>2022-06-23T12:41:08+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-05-25:/cd2022/blog/w14-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;WEEK&lt;/h2&gt;
+&lt;p&gt;fixing blog&lt;/p&gt;</content><category term="Misc"></category><category term="2022 springCD"></category></entry><entry><title>WEEK13</title><link href="https://zhilin-0817.github.io/cd2022/blog/w13-40923156.html" rel="alternate"></link><published>2022-05-18T11:00:00+08:00</published><updated>2022-06-14T00:31:48+08:00</updated><author><name>40923156</name></author><id>tag:zhilin-0817.github.io,2022-05-18:/cd2022/blog/w13-40923156.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;WEEK13&lt;/h2&gt;
 &lt;p&gt;WEEK13
